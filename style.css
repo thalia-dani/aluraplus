@@ -176,18 +176,18 @@ body {
         display: flex;
         flex-direction: column;
         text-align: center;
-        margin: 5%;
+        margin: 8%;
 
     }
     .container {
         display: flex;
         flex-direction: column-reverse;
         text-align: center;
-        margin: 5%;
+        margin: auto;
     }
 
     .dispositivos{ 
-        padding-top: 80%;
+        padding-top: 100%;
         margin: 5%;
     }
 
@@ -198,17 +198,17 @@ body {
     }
 
     .rodape__lista{
-        margin:5%;
+        margin: 5% 0;
         flex-direction: column;
     }
 
     .lista__link{
-        margin:1%;
+        margin: 1% 0;
     }
 
     .rodape__paragrafo{
         text-align: center;
-        margin: 5%;
+
     }
     
 }
