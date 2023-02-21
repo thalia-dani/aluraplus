@@ -175,5 +175,7 @@ body {
     .container {
         display: flex;
         flex-direction: column-reverse;
+        margin: 8%;
+        
     }
 }
