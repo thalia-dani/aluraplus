@@ -169,7 +169,8 @@ body {
 
 @media (max-width: 975px){
     .principal{
-        background-image: url(images/celular.png);
+        background-image: url(images/Background_m.png);
+        width: auto;
     }
     .container {
         display: flex;
