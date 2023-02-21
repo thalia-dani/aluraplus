@@ -168,11 +168,12 @@ body {
 }
 
 @media (max-width: 975px){
-    .container {
-        height: auto;
-        display: flex;
+    .principal{
+        
+
     }
-    body{
-        width: auto;
+    .container {
+        display: flex;
+        flex-direction: column-reverse;
     }
 }
