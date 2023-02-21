@@ -170,18 +170,25 @@ body {
 @media (max-width: 975px){
     .principal{
         background-image: url(images/Background_m.png);
-        width: auto;
+        width: auto;  
+    }
+    .container__caixa{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin: 5%;
+
     }
     .container {
         display: flex;
         flex-direction: column-reverse;
-        margin: 8%;
+        text-align: center;
+        margin: 5%;
         
     }
 
     .dispositivos{ 
-        align-items: center;
-        margin: 8%;
+        padding-top: 2em;
     }
 
     .dispositivos__lista{
@@ -192,6 +199,6 @@ body {
 
     .rodape{
         
-        margin: 8%;
+       
     }
 }
