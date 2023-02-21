@@ -176,8 +176,7 @@ body {
         display: flex;
         flex-direction: column;
         text-align: center;
-        margin: 8%;
-
+        margin: -10% 8%;
     }
     .container {
         display: flex;
@@ -197,6 +196,14 @@ body {
         flex-direction: column;
     }
 
+    .rodape{
+        margin: 10% 5%;
+    }
+
+    .rodape__logo{
+        padding-left: 8%;
+    }
+
     .rodape__lista{
         margin: 5% 0;
         flex-direction: column;
@@ -204,11 +211,6 @@ body {
 
     .lista__link{
         margin: 1% 0;
-    }
-
-    .rodape__paragrafo{
-        text-align: center;
-
     }
     
 }
