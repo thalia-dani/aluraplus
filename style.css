@@ -172,4 +172,7 @@ body {
         height: auto;
         display: flex;
     }
+    body{
+        width: auto;
+    }
 }
