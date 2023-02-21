@@ -184,21 +184,31 @@ body {
         flex-direction: column-reverse;
         text-align: center;
         margin: 5%;
-        
     }
 
     .dispositivos{ 
-        padding-top: 2em;
+        padding-top: 80%;
+        margin: 5%;
     }
 
     .dispositivos__lista{
         display: flex;
+        text-align: center;
         flex-direction: column;
-
     }
 
-    .rodape{
-        
-       
+    .rodape__lista{
+        margin:5%;
+        flex-direction: column;
     }
+
+    .lista__link{
+        margin:1%;
+    }
+
+    .rodape__paragrafo{
+        text-align: center;
+        margin: 5%;
+    }
+    
 }
