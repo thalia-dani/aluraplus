@@ -178,4 +178,20 @@ body {
         margin: 8%;
         
     }
+
+    .dispositivos{ 
+        align-items: center;
+        margin: 8%;
+    }
+
+    .dispositivos__lista{
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .rodape{
+        
+        margin: 8%;
+    }
 }
