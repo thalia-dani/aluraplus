@@ -1,4 +1,4 @@
-<h1 align="center"> ALURA PLUS </h1>
+<h1 align="center"> <a href="https://aluraplus-ivory-zeta.vercel.app/" target="_blank" rel="noopener noreferrer"> ALURA PLUS </a></h1>
 
 <div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
